@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Xplore Scuba</string>
+    <string name="calendar">CALENDAR PAGE</string>
+    <string name="ccard">Certification Card Login Page</string>
+    <string name="Checklist_Title"><b><u>"DIVER'S CHECKLIST"</u></b></string>
+</resources>
